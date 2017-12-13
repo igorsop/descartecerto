@@ -20,12 +20,17 @@
 
     <preference name="android-minSdkVersion" value="16" />
     <platform name="android" />
+	
 
     <icon src="icon.png" />
     <plugin name="cordova-plugin-splashscreen" />
     <splash src="splash.png" />
 	
-	<content src="http://www.descartecerto.com.br/descarteaqui/" />
+	<plugin name="cordova-plugin-whitelist"      source="npm" spec="1.1.0" />
+	<allow-navigation href="*" />
+	<allow-intent href="*" />
+	
+	<content src="https://www.descartecerto.com.br/descarteaqui/index.php" />
     <access origin="*" />
 
 </widget>
