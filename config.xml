@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets"
         xmlns:gap="http://phonegap.com/ns/1.0"
-        id="br.com.i9xp.descartecerto"
+        id="br.com.i9xp.garantiaverde"
         version="1.0.0">
 
-    <name>descarte certo</name>
+    <name>Garantia Verde</name>
 
     <description>
-        A Descarte Certo oferece um serviço de coleta, manejo de resíduos e reciclagem de produtos eletroeletrônicos velhos ou sem condições de uso. Por meio dele, qualquer pessoa ou empresa pode se desfazer de seus aparelho da maneira correta.
+        O app Garantia Verde oferece um serviço de coleta, manejo de resíduos e reciclagem de produtos eletroeletrônicos velhos ou sem condições de uso. Por meio dele, qualquer pessoa ou empresa pode se desfazer de seus aparelho da maneira correta.
     </description>
 
     <author href="http://www.i9xp.com.br" email="igor@i9xp.com.br">
